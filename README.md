@@ -20,3 +20,6 @@ Expected Outcomes:
 
 Outcome: 
 
+The random forest model with undersampling had the best precision and F1 score of all models.
+
+
