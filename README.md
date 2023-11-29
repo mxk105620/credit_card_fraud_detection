@@ -20,6 +20,5 @@ Expected Outcomes:
 
 Outcome: 
 
-The random forest model with undersampling had the best precision and F1 score of all models.
-
+Through thorough data exploration, the team identified key characteristics, including transaction amounts and time intervals, and observed a higher mean for fraud transactions. We found that the random forest model with undersampling had the best precision and F1 score of all models. 
 
